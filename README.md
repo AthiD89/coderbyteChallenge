@@ -1,4 +1,4 @@
 # coderbyteChallenge
-This one is written in JavaScript
+I used JavaScript and Python for these challenges
 
 
